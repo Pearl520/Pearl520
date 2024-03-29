@@ -1,4 +1,13 @@
 ### Hi there 👋
+#### 👸 Pronouns: She / Her / Hers
+#### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
+#### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
+#### 🌟 Interests: Stem Cell，NGS，Embryo Reprogramming，Organoid-based CRISPR Screening，Assisted Reproductive Tech...
+#### 💻 I’m currently learning: R，Perl，Python...
+#### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
+#### 📫 How to reach me: Peiyao.Liu@cchmc.org
+
+
 
 <!--
 **Pearl520/Pearl520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
