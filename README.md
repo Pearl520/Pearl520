@@ -1,12 +1,23 @@
 ### Hi there 👋
-#### 🎤 You can all me: Pearl 
-#### 👸 Pronouns: She / Her / Hers
+#### 🎤 You can all me: Pearl
+#### 😄 Pronouns: She/Her/Hers
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
 #### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
-#### 🌟 Interests: Stem Cell，NGS，Embryo Reprogramming，Organoid-based CRISPR Screening，Assisted Reproductive Tech...
-#### 💻 I’m currently learning: R，Perl，Python...
+#### 🌟 Interests: 
+  - Stem Cell，
+  - NGS
+  - Embryo Reprogramming
+  - Organoid-based CRISPR Screening
+  - Assisted Reproductive Tech
+  - ...
+#### 💻 I’m currently learning:
+  - R
+  - Perl
+  - Python
+  - ...
 #### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
+#### 💬 Ask me about: 
 
 
 
