@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### 🎤 You can all me: Pearl 
 #### 👸 Pronouns: She / Her / Hers
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
 #### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
