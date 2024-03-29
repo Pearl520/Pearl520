@@ -4,12 +4,9 @@
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
 #### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
 #### 🌟 Interests: 
-  - Stem Cell，
+  - Stem Cell，Embryo Reprogramming, Organoid-based CRISPR Screening
   - NGS
-  - Embryo Reprogramming
-  - Organoid-based CRISPR Screening
   - Assisted Reproductive Tech
-  - ...
 #### 💻 I’m currently learning:
   - R
   - Perl
