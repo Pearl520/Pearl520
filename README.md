@@ -7,6 +7,7 @@
   - Stem Cell，Embryo Reprogramming, Organoid-based CRISPR Screening
   - NGS
   - Assisted Reproductive Tech
+#### 🥼 Wet lab: hPSC Maintance & Differentiation, Gene Editing, Animal Model, Flow Cytometry...
 #### 💻 I’m currently learning:
   - R
   - Perl
