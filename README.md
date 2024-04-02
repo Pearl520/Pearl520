@@ -10,9 +10,7 @@
   - Assisted Reproductive Tech, Oranoid Transplatation
 #### 🥼 Wet lab: hPSC Maintance & Differentiation, Gene Editing, Animal Model, Flow Cytometry...
 #### 💻 I’m currently learning:
-  - R
-  - Perl
-  - Python
+  - R\Perl\Python
   - ...
 #### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
