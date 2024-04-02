@@ -3,7 +3,7 @@
 #### 😄 Pronouns: She/Her/Hers
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
 #### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
-  - Track: Developmental Bio
+#### 🚄 Track: Developmental Bio
 #### 🌟 Interests: 
   - Stem Cell，Embryo Reprogramming, Organoid-based CRISPR Screening
   - NGS
