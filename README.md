@@ -3,12 +3,11 @@
 #### 😄 Pronouns: She/Her/Hers
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
 #### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
-#### 🚄 Track: Developmental Bio
 #### 🌟 Interests: 
   - Stem Cell，Embryo Reprogramming, Organoid-based CRISPR Screening
   - NGS
-  - Assisted Reproductive Tech, Oranoid Transplatation
-#### 🥼 Wet lab: hPSC Maintance & Differentiation, Gene Editing, Animal Model, Flow Cytometry...
+  - Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
+#### 🥼 Wet lab: hPSC maintenance & Differentiation, Gene Editing, Animal Model...
 #### 💻 I’m currently learning:
   - R\Perl\Python
   - ...
