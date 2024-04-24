@@ -4,7 +4,8 @@
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
 #### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
 #### 🌟 Interests: 
-  - [Development Bio] Stem Cell, Embryo Reprogramming, Organoid, CRISPR Screening
+  - [Development Bio]
+  - Stem Cell, Embryo Reprogramming, Organoid, CRISPR Screening
   - NGS
   - Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
 #### 🥼 Wet lab: hPSC maintenance & Differentiation, Gene Editing, Animal Model...
