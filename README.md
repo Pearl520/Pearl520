@@ -16,7 +16,7 @@
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
 
 <p align="right">
-  <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="150">
+  <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="250">
 </p>
 
 
