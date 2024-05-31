@@ -14,20 +14,11 @@
   - ...
 #### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
-```html
-<table>
-  <tr>
-    <!-- Language stats image -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pearl520&layout=compact" alt="Language Stats" height="200">
-    </td>
-    <!-- Cat coding GIF -->
-    <td>
-      <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" height="200">
-    </td>
-  </tr>
-</table>
-```
+
+<p align="center">
+  <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="250">
+</p>
+
 
 
 <!--
