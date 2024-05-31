@@ -1,6 +1,5 @@
 ### :shipit:Hi there👋
-#### 🎤 You can all me: Pearl
-#### 😄 She/Her/Hers
+#### 🎤 You can all me: Pearl (She/Her/Hers)
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
 #### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
 #### 🌟 Interests: 
