@@ -1,7 +1,4 @@
 ### :shipit:Hi there👋
-<p align="right">
-  <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="150">
-</p>
 #### 🎤 You can all me: Pearl
 #### 😄 She/Her/Hers
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
