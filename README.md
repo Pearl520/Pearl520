@@ -9,12 +9,9 @@
   - NGS
   - Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
 #### 🥼 Wet lab: hPSC maintenance & Differentiation, Gene Editing, Animal Model...
-#### 💻 I’m currently learning:
-  - R\Perl\Python\Groovy
-  - ...
+#### 💻 I’m currently learning: R\Perl\Python\Groovy
 #### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
-
 <p align="right">
   <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="250">
 </p>
