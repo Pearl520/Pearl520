@@ -19,6 +19,11 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pearl520&layout=compact" />
 </div>
 
+``html
+<p align="right">
+  <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat">
+</p>
+```
 
 
 
