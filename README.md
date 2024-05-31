@@ -1,4 +1,4 @@
-### Hi there 👋
+### :shipit:Hi there👋
 #### 🎤 You can all me: Pearl
 #### 😄 She/Her/Hers
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
