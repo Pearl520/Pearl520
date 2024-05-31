@@ -10,14 +10,13 @@
   - Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
 #### 🥼 Wet lab: hPSC maintenance & Differentiation, Gene Editing, Animal Model...
 #### 💻 I’m currently learning:
-  - R\Perl\Python
+  - R\Perl\Python\Groovy
+     <div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pearl520&layout=compact" />
+</div>
   - ...
 #### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
-
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pearl520&layout=compact" />
-</div>
 
 ``html
 <p align="right">
