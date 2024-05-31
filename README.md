@@ -1,4 +1,7 @@
 ### :shipit:Hi there👋
+<p align="right">
+  <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="150">
+</p>
 #### 🎤 You can all me: Pearl
 #### 😄 She/Her/Hers
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
@@ -15,8 +18,8 @@
 #### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
 
-<p align="center">
-  <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="250">
+<p align="right">
+  <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="150">
 </p>
 
 
