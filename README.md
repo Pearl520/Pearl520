@@ -15,18 +15,8 @@
   <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="250">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pearl520&layout=compact)
-
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-
-</div>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
