@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@975fa60e-1225-40f6-bebf-7151c9463843/05d177e6-c5f0-4a31-abce-8c3043bb39f0.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@975fa60e-1225-40f6-bebf-7151c9463843/b03c7a4c-f8e3-480d-84bf-e07e67bbc49a.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@975fa60e-1225-40f6-bebf-7151c9463843/540665ea-d2e9-47a6-8eeb-ae836349457c.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
