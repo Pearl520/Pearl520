@@ -19,7 +19,7 @@
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@975fa60e-1225-40f6-bebf-7151c9463843/05d177e6-c5f0-4a31-abce-8c3043bb39f0.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@975fa60e-1225-40f6-bebf-7151c9463843/1b0bc249-2919-4e2b-ac50-931fa6767c71.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@975fa60e-1225-40f6-bebf-7151c9463843/cd8b31b4-11de-428b-a38f-ed34650f6b28.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
