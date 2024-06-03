@@ -15,6 +15,8 @@
   <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="250">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pearl520&layout=compact)
+
 
 
 <!--
