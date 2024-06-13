@@ -1,14 +1,14 @@
 ### :shipit: Hi there👋
 #### 🎤 You can all me: Pearl (She/Her/Hers)
-#### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
-#### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
+     🌱 B.S. in Plant Science & Technology @ 🇨🇳
+     🧫 Now: Biomedical Graduate Student @ 🇺🇸
 #### 💻 I’m currently learning: Shell\R\Perl\Python\Groovy\
 
 #### 🌟 Interests: 
   - [Development Bio] Stem Cell, Embryo Reprogramming, ZGA, In vitro models
   - [Cutting-edge Techs] NGS, CRISPR screening
   - [Clinical Application] Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
-#### 🥼 Experience
+#### 🥼 Experiences:
         Wet Lab: hPSC Maintenance & Differentiation, Gene Editing, Mouse Model...
         Dry Lab: scRNA-seq, RNA-seq
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
