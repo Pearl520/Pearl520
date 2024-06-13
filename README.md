@@ -6,7 +6,7 @@
   - [Development Bio] Stem Cell, Embryo Reprogramming, ZGA, In vitro models
   - [Cutting-edge Techs] NGS, CRISPR screening
   - [Clinical Application] Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
-#### 🥼 Wet lab: hPSC maintenance & Differentiation, Gene Editing, Animal Model...
+#### 🥼 Wet Lab: hPSC Maintenance & Differentiation, Gene Editing, Mouse Model...
 #### 💻 I’m currently learning: Shell\R\Perl\Python\Groovy\
 #### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
