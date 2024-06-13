@@ -3,10 +3,9 @@
 #### 🌱 B.S. in Plant Science & Technology @ 🇨🇳
 #### 🧫 Now: Biomedical Graduate Student @ 🇺🇸
 #### 🌟 Interests: 
-  - [Development Bio]
-  - Stem Cell, Embryo Reprogramming, Organoid, CRISPR Screening
-  - NGS
-  - Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
+  - [Development Bio] Stem Cell, Embryo Reprogramming, ZGA, In vitro models
+  - [Cutting-edge Techs] NGS, CRISPR screening
+  - [Clinical Application] Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
 #### 🥼 Wet lab: hPSC maintenance & Differentiation, Gene Editing, Animal Model...
 #### 💻 I’m currently learning: Shell\R\Perl\Python\Groovy\
 #### 🧬 Experiences with scRNA-seq, bulk seq data analysis(so far)
