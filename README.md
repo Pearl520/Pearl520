@@ -2,7 +2,7 @@
 #### 🎤 You can all me: Pearl (She/Her/Hers)
      🌱 B.S. in Plant Science & Technology @ 🇨🇳
      🧫 Now: Biomedical Graduate Student @ 🇺🇸
-#### 💻 I’m currently learning: Shell\R\Perl\Python\Groovy\
+#### 💻 I’m currently learning: Shell\R\Perl\Python\Groovy
 
 #### 🌟 Interests: 
   - [Development Bio] Stem Cell, Embryo Reprogramming, ZGA, In vitro models
