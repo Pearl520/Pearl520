@@ -10,7 +10,7 @@
   - [Clinical Application] Assisted Reproductive Tech, Oranoid Transplatation, Xenotransplantation
 #### 🥼 Experiences:
         Wet Lab: hPSC Maintenance & Differentiation, Gene Editing, Mouse Model...
-        Dry Lab: scRNA-seq, RNA-seq
+        Dry Lab: scRNA-seq, RNA-seq, ChIP-seq
 #### 📫 How to reach me: Peiyao.Liu@cchmc.org
 <p align="right">
   <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/catcoding.gif" alt="coding cat" width="250">
